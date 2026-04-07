@@ -654,7 +654,7 @@ header nav .form i {
         content: "";
         position: absolute;
         border-top: 1px solid var(--outline-color);
-        top: -31px;
+        top: -35px;
         left: -145px;
         width: 400%;
     }
