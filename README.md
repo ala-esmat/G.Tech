@@ -16,7 +16,8 @@ Check out the live version of the project here:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) -->
 
 ---
 
@@ -35,9 +36,9 @@ Check out the live version of the project here:
 
 ## 📸 Screenshots
 
-|             Desktop View              |             Mobile View             |
-| :-----------------------------------: | :---------------------------------: |
-| ![Desktop](./screenshots/desktop.png) | ![Mobile](./screenshots/mobile.png) |
+|                         Desktop View                         |                        Mobile View                         |
+| :----------------------------------------------------------: | :--------------------------------------------------------: |
+| ![Desktop](./image/Desktop%202026-04-10%20at%2023.06.11.png) | ![Mobile](./image/Mobile%202026-04-10%20at%2023.06.47.png) |
 
 _(Tip: Create a 'screenshots' folder in your repo and add your images there)_
 
