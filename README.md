@@ -3,7 +3,7 @@
 A professional, high-performance, and fully responsive corporate website built for **G-Tech**, a leading System Integrator based in Riyadh, KSA. This project showcases advanced IT infrastructure, security systems, and communication solutions.
 
 ![Project Preview](https://raw.githubusercontent.com/ala-esmat/Tech-company/main/assets/img/hero-bg.jpg)
-_(Note: Replace this link with your actual screenshot path if needed)_
+<!-- _(Note: Replace this link with your actual screenshot path if needed)_ -->
 
 ## 🔗 Live Demo
 
@@ -40,7 +40,7 @@ Check out the live version of the project here:
 | :----------------------------------------------------------: | :--------------------------------------------------------: |
 | ![Desktop](./image/Desktop%202026-04-10%20at%2023.06.11.png) | ![Mobile](./image/Mobile%202026-04-10%20at%2023.06.47.png) |
 
-_(Tip: Create a 'screenshots' folder in your repo and add your images there)_
+<!-- _(Tip: Create a 'screenshots' folder in your repo and add your images there)_ -->
 
 ---
 
