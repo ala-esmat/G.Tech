@@ -15,6 +15,7 @@
     --section-padding: 100px;
     --bg-transparent-color: rgba(0, 0, 0, 0.4);
 }
+
 /* End Variables */
 
 /* Start Global Rules */
@@ -156,7 +157,7 @@ header .logo {
     align-items: center;
     text-decoration: none;
     /* color: var(--main-color); */
-    color: rgba(255, 68, 0, 0.804);
+    color: rgba(255, 255, 255, 0.804);
 }
 
 header .logo i {
@@ -219,6 +220,7 @@ header nav ul {
 header nav ul li a {
     display: block;
     color: var(--first-color);
+    font-weight: bold;
     font-size: 14px;
     text-decoration: none;
     transition: color 0.3s;
@@ -255,10 +257,10 @@ header nav .form i {
 
 /* Start landing */
 .landing {
-    background-image: url('../image/pexels-apple.jpg');
+    background-image: url('../image/Aerial_view_of_Apple_Park.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     min-height: 100vh;
     padding: 1px;
     position: relative;
